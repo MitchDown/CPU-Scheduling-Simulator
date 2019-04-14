@@ -1,5 +1,7 @@
 #include "SRTF.h"
 
+//Implementation file for the "Shortest Remaining Time First" algorithm
+
 SRTF::SRTF():Scheduler() 
 {
 	currentProcess = new PCB();

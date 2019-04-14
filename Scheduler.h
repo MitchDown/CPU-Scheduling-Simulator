@@ -2,6 +2,8 @@
 #include <fstream>
 #include <queue>
 
+//Definition of parent class Scheduler, from which the various scheduling algorithms inherit
+
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
 

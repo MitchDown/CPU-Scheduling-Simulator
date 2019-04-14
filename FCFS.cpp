@@ -1,5 +1,7 @@
 #include "FCFS.h"
 
+//Implementation file for the "First come, first served" algorithm
+
 FCFS::FCFS():Scheduler() {}
 
 void FCFS::Simulate()

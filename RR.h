@@ -1,5 +1,7 @@
 #include "Scheduler.h"
 
+//Header file for the "Round Robin" algorithm
+
 class RR: public Scheduler
 {
 	private:

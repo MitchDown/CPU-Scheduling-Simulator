@@ -1,5 +1,7 @@
 #include "Scheduler.h"
 
+//Header file for the "Shortest Remaining Time First" algorithm
+
 class SRTF: public Scheduler
 {
 	private:

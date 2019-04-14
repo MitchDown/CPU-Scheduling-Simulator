@@ -1,5 +1,7 @@
 #include "RR.h"
 
+//Implementation file for the "Round Robin" algorithm
+
 RR::RR(int quantum):Scheduler()
 {
 	timeQuantum = quantum;
